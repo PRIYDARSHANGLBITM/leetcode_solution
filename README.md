@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
