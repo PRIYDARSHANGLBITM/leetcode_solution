@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
