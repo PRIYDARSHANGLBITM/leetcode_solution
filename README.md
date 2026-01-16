@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
 ## Array
 |  |
