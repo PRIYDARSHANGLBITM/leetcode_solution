@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
+| [2485-find-the-pivot-integer](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
