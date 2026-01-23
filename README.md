@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0704-binary-search) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
