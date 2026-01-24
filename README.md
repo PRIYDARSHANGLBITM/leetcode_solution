@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 | [2485-find-the-pivot-integer](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
@@ -157,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
