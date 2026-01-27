@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0112-path-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
