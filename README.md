@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 | [2485-find-the-pivot-integer](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 ## Tree
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
