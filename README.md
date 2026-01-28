@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 ## Tree
 |  |
