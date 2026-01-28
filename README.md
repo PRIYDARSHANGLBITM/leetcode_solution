@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0704-binary-search) |
 ## Trie
 |  |
