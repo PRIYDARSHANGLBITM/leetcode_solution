@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0217-contains-duplicate) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
