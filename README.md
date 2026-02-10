@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Database
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
