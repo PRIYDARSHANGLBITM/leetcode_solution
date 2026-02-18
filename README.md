@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
+| [0693-binary-number-with-alternating-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0693-binary-number-with-alternating-bits) |
 ## Tree
 |  |
 | ------- |
