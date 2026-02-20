@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0761-special-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0761-special-binary-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
+| [0761-special-binary-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
