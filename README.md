@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2485-find-the-pivot-integer](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
 | ------- |
