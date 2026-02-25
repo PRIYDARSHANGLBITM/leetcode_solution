@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Database
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0761-special-binary-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
