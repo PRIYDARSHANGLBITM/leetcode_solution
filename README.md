@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Memoization
 |  |
 | ------- |
