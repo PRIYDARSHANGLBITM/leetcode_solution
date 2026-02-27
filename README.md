@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3637-trionic-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Database
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
 |  |
