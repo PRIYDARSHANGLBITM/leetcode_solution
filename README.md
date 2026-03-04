@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -396,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
