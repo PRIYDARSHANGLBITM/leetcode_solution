@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0069-sqrtx) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
