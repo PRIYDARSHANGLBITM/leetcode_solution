@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0392-is-subsequence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0101-symmetric-tree) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0101-symmetric-tree) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
