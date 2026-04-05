@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0761-special-binary-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
