@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
