@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0089-gray-code/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0257-binary-tree-paths) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0191-number-of-1-bits/) | Easy |
