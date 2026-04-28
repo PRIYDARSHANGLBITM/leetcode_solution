@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0089-gray-code/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
