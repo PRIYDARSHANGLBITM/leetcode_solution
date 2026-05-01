@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0242-valid-anagram) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0191-number-of-1-bits/) | Easy |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
