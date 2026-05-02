@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Graph Theory
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -494,4 +498,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
