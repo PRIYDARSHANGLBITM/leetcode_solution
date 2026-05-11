@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2906-construct-product-matrix/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
