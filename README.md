@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
