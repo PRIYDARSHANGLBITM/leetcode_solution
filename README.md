@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 | Problem Name | Difficulty |
