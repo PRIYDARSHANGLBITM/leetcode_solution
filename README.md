@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3637-trionic-array-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3719-longest-balanced-subarray-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1276-number-of-burgers-with-no-waste-of-ingredients/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
