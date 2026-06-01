@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
