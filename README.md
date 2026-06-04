@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0392-is-subsequence) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
