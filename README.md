@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
