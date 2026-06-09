@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3637-trionic-array-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
