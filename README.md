@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0136-single-number) |
