@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
