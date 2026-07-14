@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
