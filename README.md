@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0724-find-pivot-index/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1276-number-of-burgers-with-no-waste-of-ingredients/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
