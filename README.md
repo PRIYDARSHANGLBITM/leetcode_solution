@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
