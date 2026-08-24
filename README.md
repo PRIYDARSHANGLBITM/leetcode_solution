@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1661-average-time-of-process-per-machine) |
