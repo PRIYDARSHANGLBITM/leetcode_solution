@@ -1,0 +1,1 @@
+select teacher_id, count(distinct subject_id) AS cnt from teacher group by teacher_id;
