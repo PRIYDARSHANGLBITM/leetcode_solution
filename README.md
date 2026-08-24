@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
