@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
