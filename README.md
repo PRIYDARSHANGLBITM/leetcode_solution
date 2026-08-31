@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1795-rearrange-products-table/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/1965-employees-with-missing-information/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Math
