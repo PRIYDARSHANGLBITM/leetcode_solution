@@ -585,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/PRIYDARSHANGLBITM/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
